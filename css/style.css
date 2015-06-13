@@ -1,5 +1,10 @@
 .form-horizontal{ padding-top: 70px; }
 body{
+background-image: url("../img/2.jpg");
 background-color: #C8C8FF;
+background-size: 100%;
+background-repeat: no-repeat;
 }
+
+
 
